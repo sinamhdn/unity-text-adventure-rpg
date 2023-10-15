@@ -4,7 +4,7 @@ A text based rpg game practice project in unity
 ## Unity Version
 2022.3.2f1 LTS
 
-## Concepts learned
+## Concepts
 - Adding globl game login to en empty GameObject
 - Creating ScriptableObject by parenting a class to the ScriptableObject instead of MonoBehavior
 - SerializeField to make a variable editable in the editor

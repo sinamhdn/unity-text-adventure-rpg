@@ -11,6 +11,6 @@ A text based rpg game practice project in unity
 - Adding global game logic to en empty GameObject
 - Creating ScriptableObject by parenting a class to the ScriptableObject instead of MonoBehavior
 - SerializeField to make a variable editable in the editor
-- Convert an editor field to TextArea
-- Creating different states to switch between based on condition
+- Converting an editors field to TextArea
+- Switching between different states based on condition
 - TextMeshPro UI element to generate different fonts using Window>TextMeshPro>FontAssetCreator

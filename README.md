@@ -1,4 +1,4 @@
-# TextAdventure RPG
+# Text Adventure RPG
 A text based rpg game demo project in unity
 
 ## Unity Version
